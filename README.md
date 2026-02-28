@@ -1,16 +1,43 @@
-## Hi there 👋
+# #  👋🏾 Hi, I’m Stephiny 🧿
 
-<!--
-**StephinyH/StephinyH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entrepreneur 👩🏽‍💼 
+Background In Digital Marketing & Event Management 
+Currently Learning Web Fundamentals & Building My Technical Skills  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ✨ About Me
+
+I have a background in event design & planning, with experience in digital marketing.  
+I’m currently in school for Web Fundamentals, and I’m looking to apply that knowledge to my portfolio to create meaningful digital experiences!😎🤍
+
+
+## 🧠 What I’m Learning
+
+- 🛠 Building structured and accessible web pages  
+- 📐 Designing clean layouts and cohesive websites/apps  
+- 🎯 Strengthening Git & GitHub workflows  
+- ✍🏾 Writing cleaner, more advanced code
+
+
+
+## 💻 Current Projects
+
+- 🌐 Building small practice web pages  
+- 🖌 Experimenting with layout, spacing, and typography  
+- 🧩 Combining marketing strategy with web design fundamentals  
+- 🎨 Applying my passion for design to digital projects  
+
+
+
+## 🎯 Goals for 2026
+
+- 👩🏽‍💻 Grow Confident in front-end development
+- 🔥 Build a personal portfolio website  
+- 🌟 Launch my own website for my new buisness 
+
+
+
+Thanks for visiting my profile! 😊🤍👋🏾
+
+
