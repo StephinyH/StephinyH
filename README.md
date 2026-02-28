@@ -1,4 +1,4 @@
-# #  👋🏾 Hi, I’m Stephiny 🧿
+##  👋🏾 Hi, I’m Stephiny 🧿
 
 Entrepreneur 👩🏽‍💼 
 Background In Digital Marketing & Event Management 
